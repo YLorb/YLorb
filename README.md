@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YLorb,a new computer guy.
 - 👀 I’m interested in design mini-games.
-- 🌱 I’m currently learning basis of computer engineering,such as C or java.But I'm looking forward to intend some mini-project.
+- 🌱 I’m currently learning basis of computer language,such as C or java.But I'm looking forward to intend some mini-project.
 - 💞️ I’m looking to collaborate on every project which I can do.
 - 📫 How to reach me ? You can send messages to my email:1582581799@qq.com.
 
