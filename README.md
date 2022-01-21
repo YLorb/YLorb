@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @YLorb
-  I'm a new computer guy.
+- 👋 Hi, I’m @YLorb,a new computer guy.
 - 👀 I’m interested in design mini-games.
 - 🌱 I’m currently learning basis of computer engineering,such as C or java.But I'm looking forward to intend some mini-project.
 - 💞️ I’m looking to collaborate on every project which I can do.
